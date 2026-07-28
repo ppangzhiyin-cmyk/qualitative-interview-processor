@@ -1,0 +1,39 @@
+# Interview data and local outputs
+interview_minutes/
+minutes/
+recordings/
+audio/
+video/
+transcripts/
+outputs/
+exports/
+
+# Media files
+*.m4a
+*.mp3
+*.wav
+*.aac
+*.ogg
+*.wma
+*.amr
+*.mp4
+*.mov
+*.m4v
+*.avi
+*.wmv
+*.flv
+
+# Documents that may contain private research data
+*.docx
+*.pdf
+*.xlsx
+*.csv
+*.tsv
+
+# Local/editor files
+.DS_Store
+*.log
+*.tmp
+__pycache__/
+.env
+.env.*
