@@ -44,14 +44,14 @@
 
 ```bash
 mkdir -p ~/.codex/skills
-git clone https://github.com/ppangzhiyin-cmyk/qualitative-interview-processor.git ~/.codex/skills/qualitative-interview-processor
+git clone https://github.com/Evie0715/qualitative-interview-processor.git ~/.codex/skills/qualitative-interview-processor
 ```
 
 如果你使用了自定义 `CODEX_HOME`：
 
 ```bash
 mkdir -p "${CODEX_HOME}/skills"
-git clone https://github.com/ppangzhiyin-cmyk/qualitative-interview-processor.git "${CODEX_HOME}/skills/qualitative-interview-processor"
+git clone https://github.com/Evie0715/qualitative-interview-processor.git "${CODEX_HOME}/skills/qualitative-interview-processor"
 ```
 
 安装后重启 Codex，或开启一个新的 Codex 任务。
@@ -59,7 +59,7 @@ git clone https://github.com/ppangzhiyin-cmyk/qualitative-interview-processor.gi
 也可以使用一键安装脚本：
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/ppangzhiyin-cmyk/qualitative-interview-processor/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/Evie0715/qualitative-interview-processor/main/install.sh | bash
 ```
 
 ## 使用方式
