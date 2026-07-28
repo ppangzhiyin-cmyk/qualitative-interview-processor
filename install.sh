@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO_URL="https://github.com/ppangzhiyin-cmyk/qualitative-interview-processor.git"
+REPO_URL="https://github.com/Evie0715/qualitative-interview-processor.git"
 SKILL_NAME="qualitative-interview-processor"
 CODEX_HOME_DIR="${CODEX_HOME:-$HOME/.codex}"
 TARGET_DIR="$CODEX_HOME_DIR/skills/$SKILL_NAME"
